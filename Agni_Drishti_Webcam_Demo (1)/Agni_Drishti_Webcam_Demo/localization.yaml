@@ -1,0 +1,1 @@
+{"room_width_m":10,"room_height_m":8,"image_points":[],"world_points_m":[],"note":"Set four image pixel points in clockwise order and corresponding room-plane meter points to enable homography localization."}

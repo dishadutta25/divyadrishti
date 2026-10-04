@@ -1,0 +1,1 @@
+{"coordinate_frame":"image_pixels","zones":[{"name":"Webcam View","polygon":[[0,0],[640,0],[640,480],[0,480]]}],"expected_counts":{},"dwell_seconds":30,"rules_enabled":["zone_entry","zone_exit","unexpected_object","wrong_zone","excess_count","dwell"]}

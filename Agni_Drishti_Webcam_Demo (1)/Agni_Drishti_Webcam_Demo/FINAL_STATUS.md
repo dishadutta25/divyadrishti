@@ -1,0 +1,3 @@
+# Final status
+
+Prototype scope: local Python camera/dashboard MVP with an OpenCV HOG people baseline, IoU tracking, optional homography localization, and industrial rule framework. A project-owned non-YOLO detector architecture, dataset loader, trainer, inference wrapper, and evaluator are included, but no trained checkpoint or dataset is present. Camera adapters beyond webcam, validated industrial defect detection, drone/thermal/GPS/UWB integrations, C++ acceleration, and an installer are not implemented. A source ZIP can be built with `python scripts/package.py`. See LIMITATIONS.md before deployment.

@@ -1,0 +1,11 @@
+{
+  "backend": "visionx_custom_grid",
+  "checkpoint": "models/detector.pt",
+  "classes": "python/datasets/classes.txt",
+  "image_size": 320,
+  "grid_size": 10,
+  "confidence_threshold": 0.35,
+  "nms_iou_threshold": 0.45,
+  "device": "cpu",
+  "status": "requires locally trained checkpoint; no pretrained weights or remote inference"
+}

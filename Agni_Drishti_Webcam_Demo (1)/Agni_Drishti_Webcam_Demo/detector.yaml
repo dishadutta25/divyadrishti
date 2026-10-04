@@ -1,0 +1,1 @@
+{"backend":"opencv_hog","minimum_confidence":0.25,"confidence_threshold":0.35,"nms_iou_threshold":0.45,"yolo_image_size":512,"yolo_max_detections":20,"note":"Uses local YOLO weights when present; otherwise falls back to OpenCV HOG baseline."}
